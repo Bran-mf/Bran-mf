@@ -3,7 +3,7 @@
 ## WIP :)
 ![gitStats](https://github-readme-stats.vercel.app/api?username=bran-mf&count_private=true&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bran-mf&count_private=true&theme=react&count_private=true)](https://github.com/bran-mf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bran-mf&count_private=true&theme=react)](https://github.com/bran-mf/github-readme-stats)
 <!--
 **Bran-mf/Bran-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
