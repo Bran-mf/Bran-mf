@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## C:
+![gitStats](https://github-readme-stats.vercel.app/api?username=bran-mf&show_icons=true&theme=react&include_all_commits)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bran-mf&theme=react)](https://github.com/bran-mf/github-readme-stats)
 <!--
 **Bran-mf/Bran-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
