@@ -3,7 +3,7 @@
 ## WIP :)
 <div align="left" disabled=true >
 <img   align="right" width="450px"  src="https://github-readme-stats.vercel.app/api?username=bran-mf&count_private=true&show_icons=true&theme=react"/>
-  
+
  ## Currently working with
   
 <a href="#" target="_blank"> 
@@ -30,11 +30,6 @@
 	</a>
 		</div> 
 <br/>
-
-
-## Certifications
-
-## I had worked with
 
 
 
